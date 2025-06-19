@@ -21,7 +21,8 @@ const Delivery = () => {
                 <Icon name="Truck" className="text-tea-gold" size={24} />
               </div>
               <h3 className="text-xl font-playfair font-semibold text-tea-dark-green">
-                Бесплатная доставка
+                {" "}
+                Доставка
               </h3>
             </div>
             <p className="text-muted-foreground mb-4">
