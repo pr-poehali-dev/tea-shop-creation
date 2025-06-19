@@ -119,7 +119,7 @@ const TeaCategories = () => {
                   variant="outline"
                   className="w-full border-tea-gold text-tea-dark-green hover:bg-tea-gold hover:text-white"
                 >
-                  Посмотреть сорта
+                  Изучить коллекцию
                   <Icon name="ArrowRight" className="ml-2" size={16} />
                 </Button>
               </CardContent>
