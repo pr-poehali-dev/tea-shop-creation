@@ -47,7 +47,10 @@ const Delivery = () => {
             <p className="text-muted-foreground mb-4">Любым удобным способом</p>
             <ul className="text-sm text-muted-foreground space-y-1">
               <li>• Банковская карта онлайн</li>
+              <li>• СБП (Быстрые платежи)</li>
               <li>• Наличными курьеру</li>
+              <li>• ЮMoney, QIWI</li>
+              <li>• Рассрочка 0-0-12</li>
               <li>• Банковский перевод</li>
             </ul>
           </div>
