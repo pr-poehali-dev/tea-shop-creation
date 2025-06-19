@@ -86,7 +86,7 @@ const GiftSets = () => {
                 <CardTitle className="text-2xl font-playfair text-tea-dark-green">
                   {set.name}
                 </CardTitle>
-                <p className="text-muted-foreground">{set.description}</p>
+                <p className="text-[#000000]">{set.description}</p>
               </CardHeader>
 
               <CardContent className="space-y-4">
@@ -95,7 +95,7 @@ const GiftSets = () => {
                   <span className="text-3xl font-playfair font-bold text-tea-dark-green">
                     {set.price}
                   </span>
-                  <span className="text-lg text-muted-foreground line-through">
+                  <span className="text-lg line-through text-[#000000]">
                     {set.originalPrice}
                   </span>
                 </div>
@@ -107,7 +107,7 @@ const GiftSets = () => {
                     {set.items.map((item, itemIndex) => (
                       <li
                         key={itemIndex}
-                        className="flex items-center text-sm text-muted-foreground"
+                        className="flex items-center text-sm text-[#000000]"
                       >
                         <Icon
                           name="Check"
