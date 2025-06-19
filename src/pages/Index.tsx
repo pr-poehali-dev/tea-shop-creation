@@ -4,6 +4,7 @@ import TeaCategories from "@/components/TeaCategories";
 import GiftSets from "@/components/GiftSets";
 import Benefits from "@/components/Benefits";
 import Reviews from "@/components/Reviews";
+import Delivery from "@/components/Delivery";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -15,6 +16,7 @@ const Index = () => {
       <GiftSets />
       <Benefits />
       <Reviews />
+      <Delivery />
       <Footer />
     </div>
   );

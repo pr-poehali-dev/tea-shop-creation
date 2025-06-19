@@ -45,6 +45,12 @@ const Header = () => {
             >
               Отзывы
             </a>
+            <a
+              href="#delivery"
+              className="text-foreground hover:text-tea-gold transition-colors"
+            >
+              Доставка
+            </a>
           </nav>
 
           {/* Actions */}
@@ -93,6 +99,12 @@ const Header = () => {
                 className="text-foreground hover:text-tea-gold transition-colors"
               >
                 Отзывы
+              </a>
+              <a
+                href="#delivery"
+                className="text-foreground hover:text-tea-gold transition-colors"
+              >
+                Доставка
               </a>
             </div>
           </nav>
