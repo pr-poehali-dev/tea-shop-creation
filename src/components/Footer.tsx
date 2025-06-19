@@ -12,7 +12,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-lg">🍃</span>
               </div>
               <h3 className="text-2xl font-playfair font-bold">
-                Чайная Империя
+                Золотой листок
               </h3>
             </div>
             <p className="text-white/80 mb-6 leading-relaxed">

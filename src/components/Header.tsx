@@ -15,7 +15,7 @@ const Header = () => {
               <span className="text-white font-bold text-lg">🍃</span>
             </div>
             <h1 className="text-2xl font-playfair font-bold text-tea-dark-green">
-              Чайная Империя
+              Золотой листок
             </h1>
           </div>
 
