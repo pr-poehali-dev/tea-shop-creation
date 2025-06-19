@@ -146,7 +146,7 @@ const Footer = () => {
                   className="mr-3 text-tea-gold mt-1"
                   size={18}
                 />
-                <span className="text-white/80">Москва, ул. Чайная, 15</span>
+                <span className="text-white/80">Московская обл. г. Видное</span>
               </div>
             </div>
           </div>
