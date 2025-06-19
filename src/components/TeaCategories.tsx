@@ -6,11 +6,11 @@ const teaCategories = [
   {
     id: "black",
     name: "Черный чай",
-    description: "Классические сорта с насыщенным вкусом",
+    description: "Классические сорта с насыщенным вкусом и богатыми традициями",
     image:
       "https://images.unsplash.com/photo-1576092768241-dec231879fc3?w=400&h=300&fit=crop",
     icon: "Coffee",
-    count: "120+ сортов",
+    count: "150+ сортов",
   },
   {
     id: "green",
